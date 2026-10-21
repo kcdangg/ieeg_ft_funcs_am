@@ -1,4 +1,4 @@
-function annotate_disfluencies_video(videoPath)
+function annotate_disfluencies_video(videoPath) 
 % ANNOTATE_DISFLUENCIES_VIDEO  GUI for scoring stuttering / disfluency events from video.
 %
 %   annotate_disfluencies_video            opens an empty GUI (load a video via the button)
